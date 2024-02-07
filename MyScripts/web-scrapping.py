@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # Define the URL
-url = 'https://avaltransportadora.com.br'
+url = 'http://example.com'
 
 try:
     # Send a GET request to the URL

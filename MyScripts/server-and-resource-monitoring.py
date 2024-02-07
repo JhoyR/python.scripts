@@ -3,7 +3,7 @@ import ping3
 from datetime import datetime
 
 # Endereço IP ou nome de host do servidor a ser monitorado
-server = 'https://avaltransportadora.com.br'
+server = 'example.com'
 
 # Função para verificar o status do servidor
 def verify_server_status(address: str) -> bool:

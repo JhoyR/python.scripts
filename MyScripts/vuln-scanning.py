@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # List of URLs to be checked
-urls = ["http://localhost:4200/Thanks", "http://localhost:4200"]
+urls = ["http://example.com", "http://localhost:4200"]
 
 # Dictionary of known vulnerabilities
 vulnerabilities = {
